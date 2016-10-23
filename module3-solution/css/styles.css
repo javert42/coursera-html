@@ -1,0 +1,38 @@
+body {
+  font-family: Helvetica, sans-serif;
+}
+
+.navbar {
+  margin-bottom: 0px;
+  padding: 0px 10px;
+}
+
+.navbar-brand {
+  margin-left: 10px;
+  margin-top: 7px;
+  font-size: 2em;
+}
+
+#page-title {
+  margin-bottom: 10px;
+}
+
+div.box {
+  border: 1px solid black;
+  padding: 10px;
+  margin-bottom: 30px;
+  background-color: lightgrey;
+}
+
+div.box-title {
+  font-size: 1.5em;
+}
+
+div#dropdown-menu {
+  background-color: pink;
+}
+
+div#dropdown-menu li {
+  border: solid black;
+  border-width: 1px 0px;
+}
